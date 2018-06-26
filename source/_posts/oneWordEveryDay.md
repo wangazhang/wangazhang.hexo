@@ -1,5 +1,5 @@
 ---
-title: oneWordEveryDay
+title: 一日一言
 date: 2017-03-31 15:45:46
 tags:
 ---

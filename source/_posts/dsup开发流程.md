@@ -2,6 +2,7 @@
 title: dsup开发流程
 date: 2018-06-25 16:13:00
 tags:
+    - 技术管理
 ---
 ![](http://onaqzli6n.bkt.clouddn.com/15022409447523.jpg)
 ![](http://onaqzli6n.bkt.clouddn.com/15022409643817.jpg)
