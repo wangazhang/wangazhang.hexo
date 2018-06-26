@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Wangazhang's Blog
+subtitle: Deep in , light out.
 description:
 author: wangazhang
-language:
+language: zh-CN
 timezone:
 
 # URL
@@ -80,4 +80,5 @@ deploy:
   type: git
   repo: git@github.com:wangazhang/wangazhang.github.io.git
   branch: master
+
 
