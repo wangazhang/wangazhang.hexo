@@ -27,7 +27,7 @@ tags: 小电
 
 技术产出首先也是根据需要被提上日程并进入研发阶段（为避免开发资源浪费），非**组织项目**应产出立项申请报告，说明要解决的问题，达到的目标
 
-![](http://onaqzli6n.bkt.clouddn.com/15347339673586.jpg)
+![](http://qianzhang.9rmb.club/15347339673586.jpg)
 
 
 比如 组织培训、效果验证 等
@@ -44,15 +44,15 @@ top4
 
 
 https://www.yuque.com/youdian/vefkyo/xau720#e3gdlv
-![](http://onaqzli6n.bkt.clouddn.com/15347358764438.jpg)
+![](http://qianzhang.9rmb.club/15347358764438.jpg)
 
-![](http://onaqzli6n.bkt.clouddn.com/15347358391220.jpg)
+![](http://qianzhang.9rmb.club/15347358391220.jpg)
 
 
 ## 多团队协作环境问题讨论
 
 
-![](http://onaqzli6n.bkt.clouddn.com/15344065344186.jpg)
+![](http://qianzhang.9rmb.club/15344065344186.jpg)
     
     团队A B承接了独立的项目，做到能独立测试
     A团队拉分支开发

@@ -13,12 +13,12 @@ tags:
 
 ## 当前状况梳理
 ### 名词解释
-![](http://onaqzli6n.bkt.clouddn.com/14961959803421.jpg)
+![](http://qianzhang.9rmb.club/14961959803421.jpg)
 
 目前tags，及trunk没有使用（应该是出于简化流程和更快的迭代考虑）
 
 ### 目录结构
-![](http://onaqzli6n.bkt.clouddn.com/14961960583958.jpg)
+![](http://qianzhang.9rmb.club/14961960583958.jpg)
 
 ### 项目命名规则
 `face-域.项目（服务）-service`
@@ -32,7 +32,7 @@ face-域.项目（服务）-service-日期-本分支摘要-分支项目拉取人
 各个参数以 ‘-’ 分割
 
 ### 参数解释：
-![](http://onaqzli6n.bkt.clouddn.com/14961973617223.jpg)
+![](http://qianzhang.9rmb.club/14961973617223.jpg)
 
 ### 当前申请规范
 （插入申请邮件表格）
@@ -105,7 +105,7 @@ http://192.168.1.39:8090/pages/viewpage.action?pageId=23463301
 标题：【新工程申请】关于新建face-sc.community-service工程的申请
 内容模板：
 
-![](http://onaqzli6n.bkt.clouddn.com/14962143042432.jpg)
+![](http://qianzhang.9rmb.club/14962143042432.jpg)
 
 svn小组动作：
 在sc下新建一个以face-sc.community-service命名的工程结构文件夹，也即包含branches、tags、trunk子文件夹的文件夹，并按要求给予权限

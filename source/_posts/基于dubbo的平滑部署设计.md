@@ -37,7 +37,7 @@ tags:
 指定一批（套）服务为灰度发布服务，每次灰度发布时首先更新这批机器
 因此要求所有的服务要有备份，即服务必须部署2个以上
 如下图示
-![](http://onaqzli6n.bkt.clouddn.com/14906834107816.png)
+![](http://qianzhang.9rmb.club/14906834107816.png)
 
 步骤
 1. 通过程序统一修改服务的版本号为灰度发布版本号 如0.0.0，区别于1.1.1的正式版本
@@ -51,13 +51,13 @@ tags:
 5. 剩余face-web的上线
 
 以发布finance为例，尽量简化过程
-![](http://onaqzli6n.bkt.clouddn.com/14906835833854.png)
+![](http://qianzhang.9rmb.club/14906835833854.png)
 
-![](http://onaqzli6n.bkt.clouddn.com/14906990399145.png)
+![](http://qianzhang.9rmb.club/14906990399145.png)
 
-![](http://onaqzli6n.bkt.clouddn.com/14906836356449.png)
+![](http://qianzhang.9rmb.club/14906836356449.png)
 
-![](http://onaqzli6n.bkt.clouddn.com/14906837414361.png)
+![](http://qianzhang.9rmb.club/14906837414361.png)
 
 # Q&A：
 1. face-web如何切换
@@ -69,6 +69,6 @@ tags:
 但是从流程上我们可以通过可视化界面，将多个步骤合成，从而简化我们的发布流程，从而缩短发布时间。
 
 4. 使用脚本将预灰度的web服务停止并将新的web服务启动，此时 的web服务版本号与线上服务区分开来
-![](http://onaqzli6n.bkt.clouddn.com/14906837414361.png)
+![](http://qianzhang.9rmb.club/14906837414361.png)
     
 
