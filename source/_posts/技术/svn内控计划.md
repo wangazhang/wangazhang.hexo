@@ -13,7 +13,7 @@ tags:
 
 ## 当前状况梳理
 ### 名词解释
-![](http://qianzhang.9rmb.club/14961959803421.jpg)
+![](https://wztypora.oss-cn-hangzhou.aliyuncs.com/uPic/20200403/15/14961959803421.jpg)
 
 目前tags，及trunk没有使用（应该是出于简化流程和更快的迭代考虑）
 
@@ -32,7 +32,7 @@ face-域.项目（服务）-service-日期-本分支摘要-分支项目拉取人
 各个参数以 ‘-’ 分割
 
 ### 参数解释：
-![](http://qianzhang.9rmb.club/14961973617223.jpg)
+![](https://wztypora.oss-cn-hangzhou.aliyuncs.com/uPic/20200403/15/14961973617223.jpg)
 
 ### 当前申请规范
 （插入申请邮件表格）
@@ -101,7 +101,7 @@ http://192.168.1.39:8090/pages/viewpage.action?pageId=23463301
 发送如下邮件进行申请
 发件人：新工程的负责人，一般是项目负责人
 收件人：svnmg
-抄送：郑俊平
+抄送：？？？
 标题：【新工程申请】关于新建face-sc.community-service工程的申请
 内容模板：
 
